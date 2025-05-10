@@ -34,6 +34,14 @@ Usage is the same as the original PCILeech FPGA project. Please refer to the [or
 
 You can use this project to implement any PCIe device you wish to create. The flexible architecture allows for custom device implementations according to your specific requirements.
 
+### Supported Devices
+
+This project has simulated the RTL8168 network card device as a second course project for beginners. It can trigger MSI interrupts. So how to trigger MSIX? Try configuring the Table and enabling the MSIX capability block!
+
+### 
+
+QQ Group 1044979352 for technical exchanges only, please do not discuss other topics.
+
 # PCILeech FPGA 项目
 
 这是 PCILeech FPGA 项目的改进版本，新增了以下功能和改进：
@@ -73,7 +81,7 @@ ekknod 的[项目地址](https://github.com/ekknod/pcileech-wifi)
 
 你可以用此项目完成你想实现的任意 PCIe 设备。灵活的架构允许按照您的特定需求进行自定义设备实现。
 
-### 支持的设备
+### 学习的设备
 
 本项目已经模拟RTL8168网卡设备，作为新手学习的第二个课程项目，并可以触发MSI中断，So 如何触发MSIX？ 配置好Table表并开启MSIX能力块尝试一下！
 
